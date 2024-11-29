@@ -1,4 +1,4 @@
-# ChatCSV-Streamlit-App
+# LLM-Chat_with_csv_Streamlit-App
 An LLM powered ChatCSV Streamlit app so you can chat with your CSV files.
 
 <h1> How to run the app?</h1>
@@ -36,15 +36,7 @@ An LLM powered ChatCSV Streamlit app so you can chat with your CSV files.
   pip install -r requirements.txt
   streamlit run app.py
   
-  ```
- <h2> Run on Cloud </h2>
  
- <p> You can also run this app locally on Streamlit Cloud, which is a free Cloud Hosting Service. 
- <br>
- Make a .env  file and store the key as 
- 
- ```
- OPENAI_API_KEY='##-###############'
  
  ```
  There's already a .gitignore file with .env mentioned in it. If not, make one. <br>
